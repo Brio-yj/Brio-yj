@@ -15,7 +15,7 @@
 </div>
 
 
-<p align="center">
+<p>
   <a href="https://solved.ac/whdydwls1595/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdydwls1595" />
   </a>
