@@ -1,7 +1,6 @@
+# 소개
 조용진 / Brio
-
 개발: Spring Boot
-
 특기: 잠 안자기
 
 ## Skills
