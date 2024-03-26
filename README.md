@@ -14,13 +14,13 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
-
+<div>
 ### Rate
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact)](https://github.com/Brio-yj/github-readme-stats)
 
 ### PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdydwls1595)](https://solved.ac/whdydwls1595/)
-
+</div>
 
 <!--
 **Brio-yj/Brio-yj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
