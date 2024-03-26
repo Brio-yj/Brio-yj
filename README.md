@@ -1,4 +1,4 @@
-### YongJin/Brio
+# YongJin/Brio
 
 ## Skills
 <div>
@@ -14,10 +14,10 @@
 </div>
 
 
-
+## Rate
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact)](https://github.com/Brio-yj/github-readme-stats)
 
-
+## PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdydwls1595)](https://solved.ac/whdydwls1595/)
 
 
