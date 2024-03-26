@@ -2,8 +2,8 @@
 
 ## Skills
 <div>
-  <img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white"> 
+  <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> 
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/Docker-#2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
   <img src="https://img.shields.io/badge/Kubernetes-#326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
@@ -12,14 +12,6 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
-
-
-
-
-<div>
-<img src="https://img.shields.io/badge/c++-white?style=flat-square&logo=c++&logoColor=#00599C"/>
-<img src="https://img.shields.io/badge/OpenJDK-white?style=flat-square&logo=OpenJDK&logoColor=#000000"/>
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact)](https://github.com/Brio-yj/github-readme-stats)
 
