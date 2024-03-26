@@ -13,15 +13,16 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
-<h2>PS / RATE</h2>
+<h2 style="text-decoration: none;">PS / RATE</h2>
 <p>
   <a href="https://solved.ac/whdydwls1595/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdydwls1595" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- 공백 추가 -->
   <a href="https://github.com/Brio-yj/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact" />
   </a>
 </p>
+
 
 
 
