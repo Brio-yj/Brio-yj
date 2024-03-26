@@ -1,15 +1,17 @@
 ### YongJin/Brio
 
 ## Skills
+<div>
+<img src="https://img.shields.io/badge/Spring Boot-white?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Spring Security-white?style=flat-square&logo=Spring Security&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=#2496ED"/>
+<img src="https://img.shields.io/badge/MySql-white?style=flat-square&logo=MySQL&logoColor=#4479A1"/>
+</div>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Spring Security&logoColor=#6DB33F"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Docker&logoColor=#2496ED"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=MySQL&logoColor=#4479A1"/>
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=OpenJDK&logoColor=#000000"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=c++&logoColor=#00599C"/>
-![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
+<div>
+<img src="https://img.shields.io/badge/c++-white?style=flat-square&logo=c++&logoColor=#00599C"/>
+<img src="https://img.shields.io/badge/OpenJDK-white?style=flat-square&logo=OpenJDK&logoColor=#000000"/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact)](https://github.com/Brio-yj/github-readme-stats)
 
