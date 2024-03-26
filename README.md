@@ -14,20 +14,15 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <h3>Rate</h3>
-        <a href="https://github.com/Brio-yj/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact" alt="Top Languages">
-        </a>
-    </div>
-    <div>
-        <h3>PS</h3>
-        <a href="https://solved.ac/whdydwls1595/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdydwls1595" alt="Solved.ac Profile">
-        </a>
-    </div>
-</div>
+<p align="center">
+  <a href="https://github.com/Brio-yj/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact" />
+  </a>
+  <a href="https://solved.ac/whdydwls1595/">
+    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdydwls1595" />
+  </a>
+</p>
+
 
 
 <!--
