@@ -14,12 +14,13 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
+
 <p align="center">
-  <a href="https://github.com/Brio-yj/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact" />
-  </a>
   <a href="https://solved.ac/whdydwls1595/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdydwls1595" />
+  </a>
+  <a href="https://github.com/Brio-yj/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact" />
   </a>
 </p>
 
