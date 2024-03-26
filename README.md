@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=OpenJDK&logoColor=#000000"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=c++&logoColor=#00599C"/>
-(https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact)](https://github.com/Brio-yj/github-readme-stats)
 
