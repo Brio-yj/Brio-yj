@@ -1,4 +1,7 @@
-# 관심분야 : Spring Boot, 특기 : 잠 안자기
+<h1>조용진 / Brio</h1>
+개발: Spring Boot
+
+특기: 잠 안자기
 
 ## Skills
 <div>
