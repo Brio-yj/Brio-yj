@@ -16,12 +16,13 @@
 
 <p align="center">
   <a href="https://github.com/Brio-yj/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact" />
   </a>
   <a href="https://solved.ac/whdydwls1595/">
-    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdydwls1595" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdydwls1595" />
   </a>
 </p>
+
 
 
 
