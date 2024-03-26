@@ -15,21 +15,14 @@
 </div>
 
 <p align="center">
-  <!-- Rate 부분 -->
   <a href="https://github.com/Brio-yj/github-readme-stats">
-    <div>
-      <p align="center">Rate</p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact" />
-    </div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact" />
   </a>
-  <!-- PS 부분 -->
   <a href="https://solved.ac/whdydwls1595/">
-    <div>
-      <p align="center">PS</p>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdydwls1595" />
-    </div>
+    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdydwls1595" />
   </a>
 </p>
+
 
 
 
