@@ -1,4 +1,4 @@
-# YongJin/Brio
+# 관심분야 : Spring Boot, 특기 : 잠 안자기
 
 ## Skills
 <div>
