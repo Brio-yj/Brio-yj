@@ -1,24 +1,48 @@
-### 조용진 / Brio
-개발: Spring Boot, 특기: 잠 안자기
+## 조용진 | 백엔드, 인프라 
 
-### Skills
-<div>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
+MSA기반 프로젝트에서 마이크로서비스에 대한 부하 테스트를 통해 독립적인 배포 모델 확인
 
-### PS / RATE
+파이프-필터 패턴을 활용한 알고리즘 재설계를 통해 빌드 시간 1/8 단축
+
+웹,앱 백엔드 서버 구축 및 CI/CD를 통한 자동 배포 
+
+## Project
+## Skills
+
+### Strong
+Java / Spring Boot / MySQL 
+
+Docker / Kubernetes / AWS / GCP
+
+### Knowledgeable
+MariaDB / Github Actions / Istio / Service Mesh
+
+
+## Award
+### 장려상
+제5회 PNU 창의융합SW해커톤
+
+## Lab
+상하수도 인프라 공학 연구실 - 한국전자통신연구원 위탁과제 수행 (알고리즘 설계 및 데이터 분석,시각화)
+
+## Article
+박수완, 조용진, & 오창현. (2023, May). Development and Applications of a Risk Evaluation Formula for Water Distribution Pipes. The 18th IeMeK Symposium on Embedded Technology. https://iemek.org/UploadData/Editor/Conference/202305/F95B1333700E4358A36FC66FFE51A162.pdf
+
+## Education
+2023 PNU 백엔드 미니 부트캠프
+
+2024 PNU 클라우드 미니 부트캠프
+
+
+## PS
 <p>
   <a href="https://solved.ac/whdydwls1595/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdydwls1595" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- 공백 추가 -->
+  <p>
+
+## Contribute
+<p>
   <a href="https://github.com/Brio-yj/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact" />
   </a>
@@ -26,21 +50,3 @@
 
 
 
-
-
-
-
-<!--
-**Brio-yj/Brio-yj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
