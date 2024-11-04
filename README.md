@@ -15,7 +15,7 @@ MSA기반 프로젝트에서 마이크로서비스에 대한 부하 테스트를
 상하수도 인프라 공학 연구실 - 한국전자통신연구원 위탁과제 수행 (알고리즘 설계 및 데이터 분석,시각화)
 
 ## Article
-박수완, 조용진, & 오창현. (2023, May). Development and Applications of a Risk Evaluation Formula for Water Distribution Pipes. The 18th IeMeK Symposium on Embedded Technology. https://iemek.org/UploadData/Editor/Conference/202305/F95B1333700E4358A36FC66FFE51A162.pdf
+박수완, 조용진, & 오창현. (2023, May). Development and Applications of a Risk Evaluation Formula for Water Distribution Pipes. The 18th IeMeK Symposium on Embedded Technology. https://iemek.org/UploadData/Editor/Conference/202305/F95B1333700E4358A36FC66FFE51A162.pdf#page=321
 
 ## Project
 ### Clove
