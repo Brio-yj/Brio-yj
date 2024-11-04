@@ -6,6 +6,17 @@ MSA기반 프로젝트에서 마이크로서비스에 대한 부하 테스트를
 
 웹,앱 백엔드 서버 구축 및 CI/CD를 통한 자동 배포 
 
+## Award
+부산대학교 정보컴퓨터공학부 2024 전기 졸업과제 은상
+
+제5회 PNU 창의융합SW해커톤 장려상
+
+## Lab
+상하수도 인프라 공학 연구실 - 한국전자통신연구원 위탁과제 수행 (알고리즘 설계 및 데이터 분석,시각화)
+
+## Article
+박수완, 조용진, & 오창현. (2023, May). Development and Applications of a Risk Evaluation Formula for Water Distribution Pipes. The 18th IeMeK Symposium on Embedded Technology. https://iemek.org/UploadData/Editor/Conference/202305/F95B1333700E4358A36FC66FFE51A162.pdf
+
 ## Project
 ### Clove
 클라우드 네이티브 기반 MSA 티켓팅 플랫폼
@@ -13,6 +24,7 @@ MSA기반 프로젝트에서 마이크로서비스에 대한 부하 테스트를
  - 사용자 요구사항을 즉각적으로 반영하여 마이크로서비스 추가 및 삭제 가능
  - Kakao Pay를 활용한 외부 결제 시스템 구현,RestTemplate를 활용한 마이크로서비스간의 데이터 무결성 유지
  - Prometeus를 활용하여 Kubernetes에서 배포중인 pod 리소스 모니터링, Istio를 활용하여 sidecar 패턴의 ServiceMesh 구축
+
 URL : https://github.com/pnucse-capstone-2024/Capstone-2024-team-20
 
 시연 영상 : https://www.youtube.com/watch?v=EWoIG3pVcTQ
@@ -23,6 +35,7 @@ URL : https://github.com/pnucse-capstone-2024/Capstone-2024-team-20
   - JWT토큰을 ACCESS,REFRESH토큰으로 구분하여 보안 강화
   - Google Maps API를 활용하여 실제 장소 정보 동기화
   - Github Actions를 활용한 CI/CD 구축
+
 URL : https://github.com/The-5th-PNU-Convergence-SW-Hackathon/PNUSW-2024-team-10
 
 시연 영상 : https://www.youtube.com/watch?v=fgFu48xAqzw
@@ -37,19 +50,6 @@ Docker / Kubernetes / AWS / GCP
 ### Knowledgeable
 MariaDB / Github Actions / Istio / Service Mesh
 
-
-## Award
-제5회 PNU 창의융합SW해커톤 장려상
-
-부산대학교 정보컴퓨터공학부 2024 전기 졸업과제 은상
-
-
-## Lab
-상하수도 인프라 공학 연구실 - 한국전자통신연구원 위탁과제 수행 (알고리즘 설계 및 데이터 분석,시각화)
-
-## Article
-박수완, 조용진, & 오창현. (2023, May). Development and Applications of a Risk Evaluation Formula for Water Distribution Pipes. The 18th IeMeK Symposium on Embedded Technology. https://iemek.org/UploadData/Editor/Conference/202305/F95B1333700E4358A36FC66FFE51A162.pdf
-
 ## Education
 2023 PNU 백엔드 미니 부트캠프
 
@@ -63,12 +63,13 @@ MariaDB / Github Actions / Istio / Service Mesh
   </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- 공백 추가 -->
   <p>
 
+<!-- 
 ## Contribute
 <p>
   <a href="https://github.com/Brio-yj/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brio-yj&layout=compact" />
   </a>
 </p>
-
+-->
 
 
