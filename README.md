@@ -14,6 +14,7 @@ MSA기반 프로젝트에서 마이크로서비스에 대한 부하 테스트를
  - Kakao Pay를 활용한 외부 결제 시스템 구현,RestTemplate를 활용한 마이크로서비스간의 데이터 무결성 유지
  - Prometeus를 활용하여 Kubernetes에서 배포중인 pod 리소스 모니터링, Istio를 활용하여 sidecar 패턴의 ServiceMesh 구축
 URL : https://github.com/pnucse-capstone-2024/Capstone-2024-team-20
+
 시연 영상 : https://www.youtube.com/watch?v=EWoIG3pVcTQ
 
 ### Heron
@@ -23,6 +24,7 @@ URL : https://github.com/pnucse-capstone-2024/Capstone-2024-team-20
   - Google Maps API를 활용하여 실제 장소 정보 동기화
   - Github Actions를 활용한 CI/CD 구축
 URL : https://github.com/The-5th-PNU-Convergence-SW-Hackathon/PNUSW-2024-team-10
+
 시연 영상 : https://www.youtube.com/watch?v=fgFu48xAqzw
 
 ## Skills
